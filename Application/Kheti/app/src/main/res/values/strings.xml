@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Kheti</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_appointment">AppointmentActivity</string>
+    <string name="title_activity_soil_test">SoilTestActivity</string>
+    <string name="i1_1">Arndi</string>
+    <string name="i1_2">Bajra</string>
+    <string name="i1_3">Bengal_Grams</string>
+    <string name="i1_4">Black_Grams</string>
+    <string name="i1_5">Green_Grams</string>
+    <string name="i2_1">Garlic</string>
+    <string name="i2_2">Green_ginger</string>
+    <string name="i2_3">Groundnut_pods</string>
+    <string name="i2_4">Gwar</string>
+    <string name="i2_5">Lime</string>
+    <string name="i3_1">Ajwain</string>
+    <string name="i3_2">Bajra</string>
+    <string name="i3_3">Barley</string>
+    <string name="i3_4">Bengal_Grams</string>
+    <string name="i3_5">Cummin_Seed</string>
+    <string name="dat">dat</string>
+    <string name="title_activity_appointmentaddress">appointmentaddress</string>
+</resources>
